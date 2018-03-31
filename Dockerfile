@@ -3,11 +3,7 @@
 # Smallest base image
 FROM alpine:latest
 
-<<<<<<< HEAD
-MAINTAINER Marco Miranda <macmiranda@gmail.com>
-=======
-LABEL maintainer="Kyle Manna <kyle@kylemanna.com>"
->>>>>>> upstream/master
+LABEL maintainer="Marco Aurelio <macmiranda@gmail.com>"
 
 # Testing: pamtester
 RUN echo "http://dl-cdn.alpinelinux.org/alpine/edge/testing/" >> /etc/apk/repositories && \
