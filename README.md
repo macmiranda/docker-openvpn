@@ -1,21 +1,18 @@
 # OpenVPN for Docker
 
-[![Build Status](https://travis-ci.org/kylemanna/docker-openvpn.svg)](https://travis-ci.org/kylemanna/docker-openvpn)
-[![Docker Stars](https://img.shields.io/docker/stars/kylemanna/openvpn.svg)](https://hub.docker.com/r/kylemanna/openvpn/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/kylemanna/openvpn.svg)](https://hub.docker.com/r/kylemanna/openvpn/)
-[![ImageLayers](https://images.microbadger.com/badges/image/kylemanna/openvpn.svg)](https://microbadger.com/#/images/kylemanna/openvpn)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkylemanna%2Fdocker-openvpn.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkylemanna%2Fdocker-openvpn?ref=badge_shield)
+[![Build Status](https://travis-ci.org/macmiranda/docker-openvpn.svg)](https://travis-ci.org/macmiranda/docker-openvpn)
+[![Docker Stars](https://img.shields.io/docker/stars/macmiranda/openvpn.svg)](https://hub.docker.com/r/macmiranda/openvpn/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/macmiranda/openvpn.svg)](https://hub.docker.com/r/macmiranda/openvpn/)
+[![ImageLayers](https://images.microbadger.com/badges/image/macmiranda/openvpn.svg)](https://microbadger.com/#/images/macmiranda/openvpn)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmacmiranda%2Fdocker-openvpn.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmacmiranda%2Fdocker-openvpn?ref=badge_shield)
 
 
 OpenVPN server in a Docker container complete with an EasyRSA PKI CA.
 
-Extensively tested on [Digital Ocean $5/mo node](http://bit.ly/1C7cKr3) and has
-a corresponding [Digital Ocean Community Tutorial](http://bit.ly/1AGUZkq).
-
 #### Upstream Links
 
-* Docker Registry @ [kylemanna/openvpn](https://hub.docker.com/r/kylemanna/openvpn/)
-* GitHub @ [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn)
+* Docker Registry @ [macmiranda/openvpn](https://hub.docker.com/r/macmiranda/openvpn/)
+* GitHub @ [macmiranda/docker-openvpn](https://github.com/macmiranda/docker-openvpn)
 
 ## Quick Start
 
