@@ -10,7 +10,7 @@ OpenVPN server in a Docker container complete with an EasyRSA PKI CA.
 
 #### Upstream Links
 
-* Docker Registry @ [macmiranda/openvpn](https://hub.docker.com/r/macmiranda/openvpn/)
+* Docker Registry @ [maurelio/openvpn](https://hub.docker.com/r/maurelio/openvpn/)
 * GitHub @ [macmiranda/docker-openvpn](https://github.com/macmiranda/docker-openvpn)
 
 ## Quick Start
