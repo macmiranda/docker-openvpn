@@ -1,10 +1,9 @@
 # OpenVPN for Docker
 
-[![Build Status](https://travis-ci.org/macmiranda/docker-openvpn.svg)](https://travis-ci.org/macmiranda/docker-openvpn)
-[![Docker Stars](https://img.shields.io/docker/stars/macmiranda/openvpn.svg)](https://hub.docker.com/r/macmiranda/openvpn/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/macmiranda/openvpn.svg)](https://hub.docker.com/r/macmiranda/openvpn/)
-[![ImageLayers](https://images.microbadger.com/badges/image/macmiranda/openvpn.svg)](https://microbadger.com/#/images/macmiranda/openvpn)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmacmiranda%2Fdocker-openvpn.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmacmiranda%2Fdocker-openvpn?ref=badge_shield)
+[![Docker Stars](https://img.shields.io/docker/stars/maurelio/docker-openvpn.svg)](https://hub.docker.com/r/maurelio/openvpn/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/maurelio/docker-openvpn.svg)](https://hub.docker.com/r/maurelio/openvpn/)
+[![ImageLayers](https://images.microbadger.com/badges/image/maurelio/docker-openvpn.svg)](https://microbadger.com/#/images/maurelio/docker-openvpn)
+[![Docker Repository on Quay](https://quay.io/repository/macmiranda/docker-openvpn/status "Docker Repository on Quay")](https://quay.io/repository/macmiranda/docker-openvpn)
 
 
 OpenVPN server in a Docker container complete with an EasyRSA PKI CA.
@@ -204,4 +203,4 @@ of a guarantee in the future.
 
 
 ## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkylemanna%2Fdocker-openvpn.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkylemanna%2Fdocker-openvpn?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmacmiranda%2Fdocker-openvpn.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmacmiranda%2Fdocker-openvpn?ref=badge_large)
